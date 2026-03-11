@@ -1,1 +1,1 @@
-# filer - a simple file manager for \*nix operating systems  
+# filer - a simple file browser for \*nix operating systems  
