@@ -8,7 +8,8 @@
 
 #define MAX_FILES 1024
 
-int main(void)
+int
+main(void)
 {
     initscr();
     cbreak();
